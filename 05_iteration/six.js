@@ -2,8 +2,8 @@
 
 
 // const values = coding.forEach( (item) => {
-//     //console.log(item);
-//     return item
+//     //console.log(item); 
+//     return item //doesn't return any item 
 // } )
 
 // console.log(values);
